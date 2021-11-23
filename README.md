@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ice129
 - 👀 I’m interested in online privacy and security 
 - 🌱 I’m currently learning Python
-- 📫 Reach me at: jatkinson15@pm.me
+- 📫 Reach me at: github@ice129.anonaddy.me
 
 <!---
 Ice129/Ice129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
